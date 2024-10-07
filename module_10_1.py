@@ -1,6 +1,5 @@
 from threading import Thread
 from datetime import datetime
-import requests
 import time
 
 
